@@ -6,7 +6,7 @@ public class hello{
 =======
 public class hello{
     public static void main(String[] sfsdf){
-        System.out.println("hello world");
+        System.out.println("Hello world");
     }
 >>>>>>> 70a45a4 (commit)
 }
