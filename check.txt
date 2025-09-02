@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello wolrld
 dsfdf
+=======
+hello wolrld
+>>>>>>> 118edbd (new1)
