@@ -3,4 +3,8 @@ hello wolrld
 dsfdf
 =======
 hello wolrld
+<<<<<<< HEAD
 >>>>>>> 118edbd (new1)
+=======
+dsfdf
+>>>>>>> 6347433 (new2)
